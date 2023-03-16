@@ -1,0 +1,3 @@
+No momento do cruzamento, ambos estarão a mesma distância de Ribeirão Preto, no entanto, após o cruzamento,
+o caminhão que se originou em Franca estará mais próximo de Ribeirão Preto já que o mesmo irá partir em
+direção da cidade.
